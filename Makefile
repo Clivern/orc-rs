@@ -4,7 +4,7 @@ RUSTUP ?= rustup
 
 help: Makefile
 	@echo
-	@echo " Choose a command run in is-up:"
+	@echo " Choose a command run in orc-rs:"
 	@echo
 	@sed -n 's/^##//p' $< | column -t -s ':' |  sed -e 's/^/ /'
 	@echo
