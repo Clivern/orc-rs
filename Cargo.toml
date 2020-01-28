@@ -7,7 +7,7 @@ license = "MIT"
 readme = "README.md"
 documentation = "https://github.com/clivern/is-up"
 repository = "https://github.com/clivern/is-up"
-categories = ["is-up"]
+categories = ["command-line-utilities"]
 keywords = ["clivern", "is-up"]
 description = """
 @TODO
