@@ -1,14 +1,14 @@
 [package]
-name = "is-up"
-version = "0.1.2"
+name = "orc"
+version = "0.1.3"
 authors = ["Clivern <hello@clivern.com>"]
 edition = "2018"
 license = "MIT"
 readme = "README.md"
-documentation = "https://github.com/clivern/is-up"
-repository = "https://github.com/clivern/is-up"
+documentation = "https://github.com/clivern/orc"
+repository = "https://github.com/clivern/orc"
 categories = ["command-line-utilities"]
-keywords = ["clivern", "is-up"]
+keywords = ["clivern", "orc"]
 description = """
 @TODO
 """
