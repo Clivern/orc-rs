@@ -1,14 +1,14 @@
 [package]
-name = "orc"
+name = "orc-rs"
 version = "0.1.3"
 authors = ["Clivern <hello@clivern.com>"]
 edition = "2018"
 license = "MIT"
 readme = "README.md"
-documentation = "https://github.com/clivern/orc"
-repository = "https://github.com/clivern/orc"
+documentation = "https://github.com/clivern/orc-rs"
+repository = "https://github.com/clivern/orc-rs"
 categories = ["command-line-utilities"]
-keywords = ["clivern", "orc"]
+keywords = ["clivern", "orc-rs"]
 description = """
 @TODO
 """
