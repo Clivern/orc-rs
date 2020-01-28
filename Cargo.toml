@@ -5,6 +5,13 @@ authors = ["Clivern <hello@clivern.com>"]
 edition = "2018"
 license = "MIT"
 readme = "README.md"
+documentation = "https://github.com/clivern/is-up"
+repository = "https://github.com/clivern/is-up"
+categories = ["is-up"]
+keywords = ["clivern", "is-up"]
+description = """
+@TODO
+"""
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
