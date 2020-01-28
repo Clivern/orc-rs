@@ -53,6 +53,13 @@ run:
 	$(CARGO) run
 
 
+## publish: Publish project
+publish:
+	@echo "\n>> ============= Cargo Publish ============= <<"
+	$(CARGO) login ${CARGO_TOKEN}
+	$(CARGO) publish
+
+
 ## ci: Run all CI tests.
 ci: build test fmt_check
 	@echo "\n>> ============= All quality checks passed ============= <<"
